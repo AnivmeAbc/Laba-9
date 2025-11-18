@@ -1,1 +1,1 @@
-# Laba-9
+# Tikhonov ISP34
